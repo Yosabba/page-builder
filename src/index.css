@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.side-bar {
+  left: 0;
+  bottom: 0;
+  position: fixed;
+  height: 100%;
+  background-color: grey;
+  width: 30%;
+
+}
