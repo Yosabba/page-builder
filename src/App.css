@@ -33,7 +33,12 @@
   border: 2px solid #ffffff;
   margin: 1rem;
   border-radius: 10px;
-  
+  background-color: #ffffff00;
+
+}
+
+[draggable=true] {
+  cursor: move;
 }
 
 .draggable-element:hover,
